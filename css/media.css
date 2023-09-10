@@ -151,4 +151,46 @@
     }
 }
 
+@media (max-width: 1200px) {
+    .header__logo {
+        margin-right: 250px;
+    }
+    
+    .product__screen {    
+        margin-left: 0;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .product__img__screen {
+        width: 600px;
+    }
+    
+    .presentation__form_gradient-border {
+        width: 500px;
+        height: 370px;
+        bottom: 230px;
+    }
+    
+    .presentation__form_gradient-bg,
+    .presentation__form_bg {
+        width: 498px;
+        height: 368px;
+    }
+
+    .presentation__form__fields {
+        margin-left: 50px;
+    }
+
+    .add-features__wrapper {
+        background-size: 50%;
+        padding-top: 220px;
+        padding-bottom: 220px;
+        height: initial;
+    }
+
+    .start__wrapper {
+        background-size: 28%;
+    }
+}
 
