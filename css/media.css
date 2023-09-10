@@ -1,0 +1,9 @@
+@media (max-width: 1403px) {
+    .presentation__steps {
+        width: 400px;
+    }
+
+    .presentation__form_gradient-border {
+        right: 0;
+    }
+}
