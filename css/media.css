@@ -682,3 +682,10 @@
         margin-right: 0;
     }
 }
+
+@media (max-width: 825px) {
+    .product__promo {
+        background: url(../images/promo__img__photo.svg) no-repeat top 75px right 75px, url(../images/product__phone1.svg) no-repeat top 110px right -30px;
+        background-size: 30%, 60%;
+    }
+}
