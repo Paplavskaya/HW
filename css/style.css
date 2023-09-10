@@ -394,14 +394,17 @@ body {
 .presentation__step:not(:first-child) {
     color: #696C75;
     margin-top: 29px;
+    align-items: center;
 }
 
 .presentation__step:first-child img {
     margin-right: 30px;
+    width: 64px;
 }
 
 .presentation__step:not(:first-child) img{
     margin-right: 37px;
+    width: 49px;
 }
 
 .presentation__step__title {
